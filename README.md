@@ -13,7 +13,7 @@ Have you ever asked yourself some questions about a Messenger group you're part 
  
 This dashboard answers all these questions, and many others!
 
-**You'll find a dashboard example on the .pbix file attached.** You only need to download Power BI Desktop (it’s free). 
+**You'll find a dashboard example on the .pbix file [available here](https://drive.google.com/drive/folders/1zJdCYKEPjFkqbHuXfCCqu2eWGndwivtn?usp=sharing)** You only need to download Power BI Desktop (it’s free). 
 
 **Want to input your own conversation’s data instead?**
 
