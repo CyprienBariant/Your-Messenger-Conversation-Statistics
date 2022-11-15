@@ -13,17 +13,18 @@ Have you ever asked yourself some questions about a Messenger group you're part 
  
 This dashboard answers all these questions, and many others!
 
-**You'll find a dashboard example on the .pbix file [available here](https://drive.google.com/drive/folders/1zJdCYKEPjFkqbHuXfCCqu2eWGndwivtn?usp=sharing).** You only need to download Power BI Desktop (it’s free). 
+**Want to visualize your own conversation’s data?**
 
-**Want to input your own conversation’s data instead?**
+Looking for the english tutorial? **[This way](https://github.com/CyprienBariant/Your-Messenger-Conversation-Statistics/tree/main/English%20Version)**
 
-Log-in to your Facebook account and go to "Account -> Settings and privacy -> Settings -> Your Facebook information -> Download your information". Select JSON format, low media quality, the date range you wish, then click on “Deselect all” and select only “Messages” (third box). Go to the bottom of the page and press “Request a download”. Facebook will send you an email within two days.
+Plutôt à la recherche d'un tutoriel en français ? **[Par ici](https://github.com/CyprienBariant/Your-Messenger-Conversation-Statistics/tree/main/French%20Version)**
 
-Once you have all the files on your computer, for each zip file, go to messages, then inbox, then open the folder of the conversation you need. If you find the files “message_x”, take all of them and put them in the local folder you want. If you don’t find those files, try another one of the zips you downloaded. Take all the messages files and drop them into another folder on your computer.
+**Here are some examples of use cases:**
 
-Once you have found and moved the files, open the .pbix file [available here](https://drive.google.com/drive/folders/1zJdCYKEPjFkqbHuXfCCqu2eWGndwivtn?usp=sharing), go to "File -> Options and Settings -> Data source settings -> Change source…" and then browse the folder where you just put the files in. 
+![image](https://user-images.githubusercontent.com/104278342/200952343-9f736366-3d7f-4f03-9323-044252b3d987.png)
 
-The data will then load into the dashboard and replace the example one. Count approximatively 2min for 2 message files, 10min for 4 message files and 45min for 10 message files. 
-If you then want to explore the dashboard without being in the edition mode, select “Publish” on the top right corner and enter a Microsoft email address (still free).
+https://user-images.githubusercontent.com/104278342/201785822-e36e64e3-1743-4261-92da-bbccbf406f1c.mp4
 
-**Happy exploring!**
+https://user-images.githubusercontent.com/104278342/201785719-1415adcb-d7c7-440c-9e35-6615d112195a.mp4
+
+![reacts_per_month](https://user-images.githubusercontent.com/104278342/201782592-b0230a8d-851f-43e2-935e-d3138722e9c1.gif)
